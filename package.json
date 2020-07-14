@@ -1,0 +1,26 @@
+{
+  "name": "js-merge",
+  "version": "1.0.0",
+  "description": "merge file like a git",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "ts-node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnull/js-merge.git"
+  },
+  "keywords": [
+    "merge",
+    "file"
+  ],
+  "author": "imnull@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imnull/js-merge/issues"
+  },
+  "homepage": "https://github.com/imnull/js-merge#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
